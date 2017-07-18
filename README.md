@@ -2,10 +2,10 @@
 Organization ZD Commitment Project Repository
 
 ## Team Member
-Sam Levy - Boston Univ.
-Rodrigo Rivero - Univ. Hawaii
-Rachael Garrett - Boston Univ.
-Kimberly Carlson - Univ. Hawaii
+Sam Levy - Boston Univ.  
+Rodrigo Rivero - Univ. Hawaii  
+Rachael Garrett - Boston Univ.  
+Kimberly Carlson - Univ. Hawaii  
 
 ## Team Contributors
 Rachael Garrett (Boston University)  
