@@ -15,6 +15,8 @@ Rodrigo Rivero (University of Hawaii)
 
 ## Project Goals
 
-
+- Synthesise existing trade, company and deforestation data for deforestation linked commodities in Brazil, Bolivia, Paraguay and Argentina  
+- Create a model of commodity-driven deforestation in these countries using Dinamica EGO  
+- Increase understanding around the conditions required to make Zero Deforestation Commitments have most impact on people and forests in the regions covered  
 
 
