@@ -7,7 +7,7 @@ dat=read.csv('/Admin/BRA_adm3')
 biome_sf <- st_read(dsn="Biomes","Brazil_Biomes")
 names(biome_sf)
 biome_sf
-plot(biome_sf$geometry)
+plot(biome_sf$geometry) #plotting spatial data
 plot(biome_sf,add=T,col="red")
 BRadmin_sf <- st_read(dsn='Admin','BRA_adm3')
 
