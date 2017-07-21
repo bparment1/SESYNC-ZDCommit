@@ -2,8 +2,6 @@ library(sf)
 library(raster)
 library(RPostgreSQL)
 
-#add ADD
-
 #Load data into PostgreSQL from ESRI shape file 
 ##Connect
 con <- dbConnect(PostgreSQL(), dbname = 'supplychaincommitments',user='supplychaincommitments',password='34gj36fd', host = 'sesync-postgis01.research.sesync.org')
